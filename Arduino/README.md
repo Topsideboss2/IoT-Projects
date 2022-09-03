@@ -31,4 +31,8 @@ This is a simple smart street light arduino microcontroller project that uses an
 ```Serial.print()```
 ```Serial.println()```
 5. ***7-Segment Display***
-This is a simple 7-segment display that has seven Light Emitting Diodes arranged in a rectangular manner. Each of the seven LEDs is called a segment because when illuminated the segment forms a numerical digit to be displayed. An additional 8th LED is sometimes used within the same package thus allowing the indication of a decimal point(DP). Two or more 7-segment displays are connected together to display numbers greater than ten.
+This is a simple 7-segment display that has seven Light Emitting Diodes arranged in a rectangular manner. Each of the seven LEDs is called a segment because when illuminated the segment forms a numerical digit to be displayed. An additional 8th LED is sometimes used within the same package thus allowing the indication of a decimal point(DP). Two or more 7-segment displays are connected together to display numbers greater than ten
+6. ***Motor-LED-LDR***
+This is a simple arduino based project that involves an LDR and LED and a motor. This can be very useful to automate motors when dependent on light. i.e to water plants during the day. The LDR will act like a closed switch during the day and water the plants. This will also trigger an LED to indicate that the motor is running.
+7. ***LED-brightness-control***
+This is an arduino project that is both hardware and software controlled. The components used are potentiometer and LED. The potentiometer is used to vary the brightness of the LED.
