@@ -19,3 +19,14 @@ This is a beginner arduino project that only requires an RGB LED and a resistor 
 > * Red 
 > * Green
 > * Blue
+4. ***SmartStreetLight***
+This is a simple smart street light arduino microcontroller project that uses an LED and LDR to switch light on during the night and switch it off during the day. Simple functions used are:
+```pinMode()```
+```map()```
+```Serial.begin```
+```void setup()```
+```void loop()```
+```digitalWrite()```
+```analogRead()```
+```Serial.print()```
+```Serial.println()```
