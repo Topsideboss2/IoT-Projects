@@ -1,1 +1,5 @@
 //C++ code
+void setup ()
+{
+
+}
