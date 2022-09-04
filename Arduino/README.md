@@ -37,4 +37,9 @@ This is a simple arduino based project that involves an LDR and LED and a motor.
 7. ***LED-brightness-control***
 This is an arduino project that is both hardware and software controlled. The components used are potentiometer and LED. The potentiometer is used to vary the brightness of the LED.
 8. ***Dice***
-This is a randomized 7-Segment-Display that can be used as a dice.
+This is a randomized 7-Segment-Display that can be used as a dice. This is also known as a digital dice because it randomizes numbers from 1 to 6 like a regular dice does. To create the 7-segment dice project you will be requiring the following list of components:
+> * Arduino Uno
+> * Connecting wires
+> * Breadboard
+> * 7-segment Display
+> * Push button
