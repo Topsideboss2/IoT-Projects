@@ -36,3 +36,5 @@ This is a simple 7-segment display that has seven Light Emitting Diodes arranged
 This is a simple arduino based project that involves an LDR and LED and a motor. This can be very useful to automate motors when dependent on light. i.e to water plants during the day. The LDR will act like a closed switch during the day and water the plants. This will also trigger an LED to indicate that the motor is running.
 7. ***LED-brightness-control***
 This is an arduino project that is both hardware and software controlled. The components used are potentiometer and LED. The potentiometer is used to vary the brightness of the LED.
+8. ***Dice***
+This is a randomized 7-Segment-Display that can be used as a dice.
