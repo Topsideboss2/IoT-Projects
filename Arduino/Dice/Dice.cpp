@@ -1,7 +1,5 @@
 // C++ code
 
-int On=1;
-int Off;
 void setup()
 {
   pinMode(1,OUTPUT);
@@ -34,12 +32,6 @@ void rolltheDice(int count,int delayLength){
 }
 
 void showNumber(int x){
-  if (On==1){
-    Off=0;
-  }
-  else{
-    Off=1;
-  }
   
   switch(x){
      case 1: one();   break;
